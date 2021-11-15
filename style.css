@@ -1,7 +1,6 @@
 *{
     padding: 0;
     margin: 0;
-    background-color: black;
 }
 
 #game{
@@ -10,6 +9,7 @@
     border: 1px solid orange;
     margin: auto;
     overflow: hidden;
+    background-color: black;
 }
 #character{
     width: 20px;

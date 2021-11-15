@@ -96,3 +96,4 @@ let blocks = setInterval(function(){
     }
 },1)
 
+//Will create different game modes
